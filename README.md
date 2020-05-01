@@ -34,7 +34,7 @@ You can build this tutorial, executing the following command
 After building the project, you can start the project with the command:
 
 ```
-java -jar target/rabbitmq-tutorials.jar
+java -jar target/rabbitmq-spring-retry-0.0.1-SNAPSHOT.jar
 ```
 
 To use another instance of RabbitMQ set the following properties in the application.yml:
